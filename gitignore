@@ -1,0 +1,10 @@
+# build output
+build/
+dist/
+MeshSwapper/
+*.spec
+__pycache__/
+*.pyc
+
+# logs and local data
+*.log
