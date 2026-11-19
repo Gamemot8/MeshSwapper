@@ -50,7 +50,7 @@ MeshSwapper is a fan-made tool. It is **not affiliated with or endorsed by Roblo
 ## Credits
 
 App created with the help of [Claude](https://claude.ai) by Anthropic.
-Questions or feedback: [Discord](https://discord.gg/E5yuUshPXY)
+Questions or feedback Discord: Gamemot8
 
 ## License
 
